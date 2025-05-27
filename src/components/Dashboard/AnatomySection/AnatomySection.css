@@ -1,0 +1,42 @@
+.title-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-top h2 {
+  color: #19145a;
+}
+.diagram {
+  display: flex;
+  background-color: #f6faff;
+  padding-left: 4rem;
+  border-radius: 16px;
+  margin-left: 2rem;
+}
+.human-image {
+  margin: 1rem 2rem;
+  height: 400px;
+  width: 180px;
+}
+
+.indicator {
+  position: relative;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 0.2rem;
+  padding: 5px 8px;
+  border-radius: 5px;
+}
+
+.indicator-icon {
+  height: 25px;
+  width: 25px;
+}
+
+.zoom-icon {
+  height: 20px;
+  margin: 1rem;
+  color: #a8a9af;
+}

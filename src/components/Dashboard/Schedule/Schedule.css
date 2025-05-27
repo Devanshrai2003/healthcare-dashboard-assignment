@@ -1,0 +1,13 @@
+.appointments-list {
+  display: flex;
+  justify-content: start;
+  gap: 2rem;
+}
+
+.schedule-title {
+  color: #19145a;
+}
+
+.day-title {
+  color: #969ba0;
+}

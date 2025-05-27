@@ -1,0 +1,18 @@
+.appointment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.appointment-icon {
+  height: 36px;
+  width: 36px;
+  margin-left: 3rem;
+}
+
+.appointment-card {
+  border-radius: 28px;
+  background-color: #dde2f9;
+  padding: 0.5rem;
+  display: inline-block;
+}

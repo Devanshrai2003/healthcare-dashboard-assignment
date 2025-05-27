@@ -1,0 +1,24 @@
+* {
+  font-family: "Inter";
+}
+
+.activity-card {
+  background-color: #f6faff;
+  padding: 1.5rem;
+  border-radius: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.activity-graph {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 3vw;
+}
+
+.chart-bar {
+  width: 6px;
+  border-radius: 100px;
+}
