@@ -71,10 +71,13 @@
 .violet {
   background-color: #3734a9;
   color: #f1f5f9;
+  font-weight: 500;
 }
 
 .grey {
   background-color: #dde2f9;
+  color: #1d1b58;
+  font-weight: 500;
 }
 
 .appointment-card-header {
